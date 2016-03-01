@@ -46,8 +46,6 @@ $(LOCAL_PATH)/so/libnativehelper.so
 
 LOCAL_LDLIBS := \
 	-llog
-$(warning $(LOCAL_C_INCLUDES))
-$(warning $(LOCAL_SRC_FILES))
 $(warning $(LOCAL_SHARED_LIBRARIES))
 include $(BUILD_SHARED_LIBRARY)
 
