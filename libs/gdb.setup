@@ -1,0 +1,3 @@
+set solib-search-path ./obj/local/armeabi
+source F:/BaiduYunDownload/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory F:/BaiduYunDownload/android-ndk-r10e/platforms/android-19/arch-arm/usr/include F:/BaiduYunDownload/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++ jni jni/include F:/BaiduYunDownload/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include F:/BaiduYunDownload/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi/include F:/BaiduYunDownload/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/backward
